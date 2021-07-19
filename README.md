@@ -1,5 +1,4 @@
 # Movie App
-
 Nomad Coders에 ReactJS로 영화 웹 서비스 만들기를 보면서 만든 Movie App입니다. 
 https://goat95.github.io/movie-app/#/
 
