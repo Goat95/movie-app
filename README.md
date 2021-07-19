@@ -4,7 +4,7 @@ Nomad Coders에 ReactJS로 영화 웹 서비스 만들기를 보면서 만든 Mo
 https://goat95.github.io/movie-app/#/
 
 ## 배운점
-React를 사용하여 api에서 데이터를 가져오는 방법과 component life cycle, router 사용하는 방법을 배우기 위해 이 영상을 시청했습니다. 
+React를 사용하여 api에서 데이터를 가져오는 방법과 component life cycle, router 사용하는 방법을 배웠습니다. 
 
 ## 전체적인 구조
 1. components
